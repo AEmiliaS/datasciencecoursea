@@ -1,7 +1,2 @@
----
-title: "HelloWorld.md"
-author: "Emilia"
-date: "24 de enero de 2017"
-output: html_document
----
+
 ## This is a markdown file
